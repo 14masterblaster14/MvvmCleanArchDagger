@@ -54,6 +54,8 @@ import com.example.mvvmcleanarch.databinding.ActivityHomeBinding
  *                  Artists -> View Artists
  *                          -> Update Artists
  *
+ *  Note: Use Dependency Graph in drawable folder.
+ *
  **/
 
 class HomeActivity : AppCompatActivity() {
